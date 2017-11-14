@@ -1,0 +1,7 @@
+#resoluções de equações de ondas pelo método das diferenças finitas (MDF)
+#A equação de onda unidimensional
+
+c = 1
+#equação u_tt = c^2u_xx
+
+# O código será escrito em python
